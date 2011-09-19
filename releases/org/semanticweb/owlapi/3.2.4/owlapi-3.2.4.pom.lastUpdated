@@ -1,18 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Aug 30 15:31:16 EDT 2011
-http\://akka.io/repository/.lastUpdated=1314731162134
-file\:///Users/hacksaw/src/trunk/trunk/Nsi/Build/local-repos/.lastUpdated=1314732676655
-http\://akka.io/repository/.error=
-http\://download.java.net/maven/2/.lastUpdated=1314731160966
-http\://repo2.maven.org/maven2/.error=
-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1314731161953
-http\://download.java.net/maven/1/.lastUpdated=1314731160859
-http\://download.java.net/maven/2/.error=
-file\:///Users/hacksaw/src/trunk/trunk/Nsi/../Build/local-repos/.lastUpdated=1314731513230
-http\://download.java.net/maven/1/.error=
-http\://repo2.maven.org/maven2/.lastUpdated=1314731160749
-http\://repo1.maven.org/maven2/.error=
-http\://repo1.maven.org/maven2/.lastUpdated=1314731160504
-file\:///Users/hacksaw/src/trunk/trunk/Nsi/../Build/local-repos/.error=
-file\:///Users/hacksaw/src/trunk/trunk/Nsi/Build/local-repos/.error=
-http\://repository.jboss.org/nexus/content/groups/public/.error=
+#Mon Sep 19 11:16:04 CEST 2011
+https\://github.com/rob-ert/rob-ert-mvn-repo/raw/master/releases/.lastUpdated=1316423764659
+http\://localhost/artifactory/repo/.lastUpdated=1316423761659
+http\://localhost/artifactory/repo/.error=
