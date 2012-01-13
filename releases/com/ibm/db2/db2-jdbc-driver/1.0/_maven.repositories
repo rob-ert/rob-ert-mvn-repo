@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Jan 13 11:46:27 CET 2012
+db2-jdbc-driver-1.0.jar>=
+db2-jdbc-driver-1.0.pom>=
